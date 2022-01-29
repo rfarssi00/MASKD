@@ -25,3 +25,9 @@
 
 
 2. [Pre-trained weights](https://drive.google.com/file/d/1rdCBocgPUJkRHfbVjJJV8g1FB6M09gqF/edit)
+
+
+# My Colab Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QRaIizGsYJqQ5orLfheBna6DS0olEJaG?usp=sharing)
+
