@@ -21,13 +21,24 @@
 
 
 # DATA
-1. [Labeled Mask Dataset](https://www.kaggle.com/techzizou/labeled-mask-dataset-yolo-darknet)
+1. [Labeled Mask Dataset ( "obj.zip" )](https://www.kaggle.com/techzizou/labeled-mask-dataset-yolo-darknet)
 
 
 2. [Pre-trained weights](https://drive.google.com/file/d/1rdCBocgPUJkRHfbVjJJV8g1FB6M09gqF/edit)
 
 
+
 # My Colab Notebook
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QRaIizGsYJqQ5orLfheBna6DS0olEJaG?usp=sharing)
+
+
+
+# Github link for Official Darknet repository 
+
+<a href="https://github.com/AlexeyAB/darknet"><img src="https://github.com/rfarssi00/MASKD/blob/main/Img/Octocat.png" align="left" height="48" width="48" ></img></a>
+
+
+
+
 
