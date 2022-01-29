@@ -1,8 +1,26 @@
+
+# Face mask detection using YOLOv4 on Google colab
+
+
+![alt text](https://github.com/rfarssi00/MASKD/blob/main/Img/MASKD.png)
+
 # MASKD
-Face mask detection using YOLOv4 on Google colab
+
+:heavy_check_mark:Encourages the proper wearing of masks in public spaces.
 
 
-Data
+:heavy_check_mark:Provides a safer environment for staff and customers.
+
+
+:heavy_check_mark:Eliminates confrontation while encouraging people to wear masks.
+
+
+
+![alt text](https://github.com/rfarssi00/MASKD/blob/main/Img/hhhhhhhhhhh.gif)
+
+
+
+# DATA
 1. [Labeled Mask Dataset](https://www.kaggle.com/techzizou/labeled-mask-dataset-yolo-darknet)
 
 
